@@ -21,7 +21,7 @@ function Decoration() {
     },
     {
       image: `${candle}`,
-      dealbutton: "CANDLES set",
+      dealbutton: "Candle image",
     },
     {
       image: `${standholder}`,
