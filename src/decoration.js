@@ -21,7 +21,7 @@ function Decoration() {
     },
     {
       image: `${candle}`,
-      dealbutton: "CANDLES",
+      dealbutton: "CANDLES set",
     },
     {
       image: `${standholder}`,
@@ -29,7 +29,7 @@ function Decoration() {
     },
     {
       image: `${candleset}`,
-      dealbutton: "CANDLES  SET",
+      dealbutton: "CANDLES SET",
     },
   ]);
   const [subproduct, setsubproduct] = useState([
