@@ -29,7 +29,7 @@ function Decoration() {
     },
     {
       image: `${candleset}`,
-      dealbutton: "CANDLES SET",
+      dealbutton: "CANDLES  SET",
     },
   ]);
   const [subproduct, setsubproduct] = useState([
